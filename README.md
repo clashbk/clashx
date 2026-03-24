@@ -2,7 +2,7 @@
 <div align="center"><img width="150" height="150" alt="ClashX" src="https://github.com/clashdownload/ClashX/assets/157440626/c4dcdad1-2a23-4d9d-b6e6-82bd60844914" /></div>
 
 ## ClashX官网导航
-- [ClashX 下载](https://github.com/clashbk/clash/wiki/clashx)
+- [ClashX v1.96.2 下载](https://github.com/clashbk/clashx/releases/tag/1.96.2)
 - [ClashX 使用教程](https://github.com/clashbk/clash/wiki/clashx)
 
 机场推荐：
